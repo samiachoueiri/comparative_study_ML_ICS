@@ -1,0 +1,51 @@
+In this project assignment, you will apply the classification and evaluation concepts learned in class on a dataset related to your project. Specifically, you must apply the following:
+
+
+
+1- Dataset Selection: Identify the dataset you will use for this project (this was partially completed in Project 2).
+
++ Refer to the guide in the Resources folder on Blackboard for instructions on copying the dataset into NETLAB.
+
++ Use a curated dataset with pre-processed features (e.g., a .csv file).  
+
++ The dataset must include a target class label (typically the last column).
+
+
+
+2. Feature Selection
+
+  + Select five features from your dataset to use in your analysis.
+
+  + You do not need to use a PCAP dataset or extract features using Zeek for this assignment.
+
+  + Ensure the selected features are relevant to the classification task
+
+
+
+3. Model Training
+
+  + Perform a 70%–30% train-test split on your dataset
+
+  + Train three different classification models on the training set
+
+
+
+4. Model Evaluation: Evaluate the performance of all three models using the following metrics:
+
+  + Accuracy
+
+  + Precision
+
+  + Recall
+
+  + F1-score
+
+  + Matthews Correlation Coefficient (MCC)
+
+
+
+5. ROC Curve Comparison
+
+  + Plot the ROC curves for all three models on a single graph.
+
+  + Based on the results, determine which model performed the best and justify your answer.
