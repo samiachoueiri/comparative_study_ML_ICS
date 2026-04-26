@@ -26,18 +26,19 @@ The goal is to evaluate trade-offs between:
 ---
 
 ## 📂 Repository Structure
-.
-├── datasets/ # Raw and processed datasets <\br>
-├── figures/ # Plots, ROC curves, visualizations <\br>
-├── notebooks/ # Jupyter notebooks for experiments <\br>
-├── papers/ # Research papers and references <\br>
-├── term paper/ # Final report and documentation <\br>
-├── 1- Project Selection.docx <\br>
-├── 2- Feature Selection.docx <\br>
-├── 2- Feature Selection.pdf <\br>
-├── milestone presentation.pptx <\br>
-├── final presentation.pptx <\br>
-└── README.md <\br>
+
+. <br>
+├── datasets/ # Raw and processed datasets <br>
+├── figures/ # Plots, ROC curves, visualizations <br>
+├── notebooks/ # Jupyter notebooks for experiments <br>
+├── papers/ # Research papers and references <br>
+├── term paper/ # Final report and documentation <br>
+├── 1- Project Selection.docx <br>
+├── 2- Feature Selection.docx <br>
+├── 2- Feature Selection.pdf <br>
+├── milestone presentation.pptx <br>
+├── final presentation.pptx <br>
+└── README.md
 
 
 ---
